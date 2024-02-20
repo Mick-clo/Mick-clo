@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michele</h1>
-<h3 align="center">A passionate full stack developer from Italy</h3>
+<h3 align="center">A junior full stack developer, currently based in Lisbon</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails and Vue.js**
+- My bootcamp projects: [Toolbnb (an Airbnb clone)](https://github.com/Mick-clo/ToolBnB)
 
-- 📫 How to reach me **comande.michele@gmail.com**
+- 🌱 I’m currently working to improve my knowledge of **Ruby on Rails and Vue.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mcomande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mcomande" height="30" width="40" /></a>
 <a href="https://discord.gg/michele4947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="michele4947" height="30" width="40" /></a>
 </p>
 
