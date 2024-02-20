@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michele</h1>
 <h3 align="center">A junior full stack developer, currently based in Lisbon</h3>
 
-- My bootcamp projects: [Toolbnb (an Airbnb clone)](https://github.com/Mick-clo/ToolBnB)
-
 - 🌱 I’m currently working to improve my knowledge of **Ruby on Rails and Vue.js**
+  
+My bootcamp projects: 
+- [Toolbnb](https://github.com/Mick-clo/ToolBnB): an Airbnb clone.
+- [Furry Friends](https://github.com/Mick-clo/Furry-Friends): an app for donations.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
