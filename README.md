@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michele</h1>
 <h3 align="center">A passionate full stack developer from Italy</h3>
 
-- 🌱 I’m currently learning **Ruby on rails and Vue.js**
+- 🌱 I’m currently learning **Ruby on Rails and Vue.js**
 
 - 📫 How to reach me **comande.michele@gmail.com**
 
